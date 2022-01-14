@@ -1,5 +1,5 @@
+This has been duplicated from https://github.com/fra589/grbl-Mega-5X and made compatible with the Boxzy / Ultimaker PCB 1.5.7
 
-GitHub Logo
 Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. This version of Grbl runs on an Arduino Mega2560 only.
 
 The controller is written in highly optimized C utilizing every clever feature of the AVR-chips to achieve precise timing and asynchronous operation. It is able to maintain up to 30kHz of stable, jitter free control pulses.
